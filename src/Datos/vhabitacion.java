@@ -6,7 +6,7 @@
 package Datos;
 
 /**
- *
+ * asd
  * @author largo
  */
 public class vhabitacion {
