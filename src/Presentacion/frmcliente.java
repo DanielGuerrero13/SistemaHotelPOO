@@ -17,7 +17,7 @@ import javax.swing.table.DefaultTableModel;
 public class frmcliente extends javax.swing.JFrame {
 
     /**
-     * Creates new form frmcliente
+     * Creates new form frmcliente OJ
      */
     public frmcliente() {
         initComponents();
