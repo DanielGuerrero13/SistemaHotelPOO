@@ -9,6 +9,7 @@ Error al intentar subir los cambios: https://www.youtube.com/watch?v=eFX4-JlhVF4
 
 Error de sincronizacion: https://www.youtube.com/watch?v=LdDVi6_HdVs
 
+Error con JASPERSOFT: https://www.youtube.com/watch?v=oMz3uQq2PQg
 
 CHECK LIST VIDEOS:
 
